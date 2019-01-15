@@ -1,11 +1,11 @@
 class Student
 
   def hello
-    return "Hello"
+    puts "Hello"
   end
 
   def raise_hand
-    return "Pick me!"
+    puts "Pick me!"
   end
 
 end
