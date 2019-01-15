@@ -1,4 +1,4 @@
-class Chatty_Student < Student
+class ChattyStudent < Student
 
   def hello
     return "Hello, I am supposed to say a lengthy phrase"
